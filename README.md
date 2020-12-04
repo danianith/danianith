@@ -1,7 +1,7 @@
 ### Hi there 👋
+### Hello World <img src="hello.gif" width="30px"></h2>
 
-<!--
-**danianith/danianith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **danianith/danianith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danianith&hide=html&layout=compact&theme=shades-of-purple" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=danianith&theme=shades-of-purple"/></td>
+    </tr>   
+</table>
+</center>
