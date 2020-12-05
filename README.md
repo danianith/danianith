@@ -16,13 +16,7 @@ Amo cozinhar, organizar, pesquisar, estudar, conhecer, questionar e ajudar as pe
 
 Se quiser conversar, pode me achar aqui:
 
-<a href="https://www.linkedin.com/in/danianith"><img src="./images/linkedin.png" width="25"></img></a> [LinkedIn](https://www.linkedin.com/in/danianith)
-
-<a href="mailto:danianith@gmail.com"><img src="./images/gmail.png" width="25"></img></a> [E-mail](mailto:danianith@gmail.com)
-
-<a href="https://www.twitter.com/danianith"><img src="./images/twitter.png" width="25"></img></a> [Twitter](https://www.twitter.com/danianith)
-
-<a href="https://https://dev.to/danianith"><img src="./images/devto.png" width="25"></img></a> [DEV](https://dev.to/danianith)<br>
+<a href="https://www.linkedin.com/in/danianith"><img src="./images/linkedin.png" width="25"></img></a> [LinkedIn](https://www.linkedin.com/in/danianith)  <a href="mailto:danianith@gmail.com"><img src="./images/gmail.png" width="25"></img></a> [E-mail](mailto:danianith@gmail.com) <a href="https://www.twitter.com/danianith"><img src="./images/twitter.png" width="25"></img></a> [Twitter](https://www.twitter.com/danianith)  <a href="https://https://dev.to/danianith"><img src="./images/devto.png" width="25"></img></a> [DEV](https://dev.to/danianith)<br>
 
 ---
 
@@ -33,12 +27,10 @@ Se quiser conversar, pode me achar aqui:
 <img src="https://shields.braskam.com/v1/shields?name=html5&format=circle&size=large"></img> <img src="https://shields.braskam.com/v1/shields?name=css3&format=circle&size=large"></img> <img src="https://shields.braskam.com/v1/shields?name=javascript&format=circle&size=large"></img> <br>
 
 ---
-<center><br>
+
+<center>
 
 ![](https://komarev.com/ghpvc/?username=danianith&color=blueviolet)
-
-</center>
-<center>
 <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danianith&hide=html&layout=compact&theme=shades-of-purple" /></td>
