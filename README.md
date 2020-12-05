@@ -1,29 +1,43 @@
 
 <img src="./images/capa.png">
 
-### Hello, World! <img src="./images/hello.gif" width="50"></h2>
+### Hello, World! </h2>
+<img src="./images/hello.gif" width="100">
 
+Eu sou a Daniani, mulher lésbica, vegetariana, espiritualista, apaixonada por tecnologia, administração, informações e pesquisas. 
 
-Eu sou a Daniani, 
+Empreendedora desde os 14 anos, amo trabalhar por conta própria e tudo que envolve esse mundo.
 
-Você pode me achar aqui:
+Formada em técnicos de Informática, Administração e Contabilidade. Sou autodidata e atualmente estudo Programação e UX/UI designer.
 
-<a href="https://www.linkedin.com/in/danianith"><img src="./images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/danianith)
+Divido meu tempo entre ser dona de casa, esposa, meus trabalhos, estudos, ver séries, filmes, desenhos, jogar (tabuleiro e retrogames), meditar e ser feliz.
 
-<a href="https://www.linkedin.com/in/danianith"><img src="./images/gmail.png" width="16"></img></a> [E-mail](https://www.linkedin.com/in/danianith)
+Amo cozinhar, organizar, pesquisar, estudar, conhecer, questionar e ajudar as pessoas.
 
-<a href="https://www.twitter.com/danianith"><img src="./images/twitter.png" width="16"></img></a> [Twitter](https://www.twitter.com/danianith)
+Se quiser conversar, pode me achar aqui:
 
-<a href="https://https://dev.to/danianith"><img src="./images/devto.png" width="16"></img></a> [DEV](https://https://https://dev.to/danianith)
+<a href="https://www.linkedin.com/in/danianith"><img src="./images/linkedin.png" width="25"></img></a> [LinkedIn](https://www.linkedin.com/in/danianith)
 
-<a href="https://discordapp.com/users/746127554267709511"><img src="./images/discord.png" width="16"></img></a> [Discord](https://discordapp.com/users/746127554267709511) Daniani#3879
+<a href="mailto:danianith@gmail.com"><img src="./images/gmail.png" width="25"></img></a> [E-mail](mailto:danianith@gmail.com)
 
-<a href="https://github.com/danianith"><img src="./images/github.png" width="16"></img></a> [GitHub](https://github.com/danianith)
+<a href="https://www.twitter.com/danianith"><img src="./images/twitter.png" width="25"></img></a> [Twitter](https://www.twitter.com/danianith)
+
+<a href="https://https://dev.to/danianith"><img src="./images/devto.png" width="25"></img></a> [DEV](https://dev.to/danianith)<br>
+
+---
 
 ### Skills
+<br>
+
+<img src="https://shields.braskam.com/v1/shields?name=ubuntu&format=circle&size=large"></img> <img src="https://shields.braskam.com/v1/shields?name=linux&format=circle&size=large"></img> <img src="https://shields.braskam.com/v1/shields?name=git&format=circle&size=large"></img> <img src="https://shields.braskam.com/v1/shields?name=github&format=circle&size=large"> <img src="https://shields.braskam.com/v1/shields?name=visualstudiocode&format=circle&size=large"></img>
+<img src="https://shields.braskam.com/v1/shields?name=html5&format=circle&size=large"></img> <img src="https://shields.braskam.com/v1/shields?name=css3&format=circle&size=large"></img> <img src="https://shields.braskam.com/v1/shields?name=javascript&format=circle&size=large"></img> <br>
+
+---
+<center><br>
 
 ![](https://komarev.com/ghpvc/?username=danianith&color=blueviolet)
 
+</center>
 <center>
 <table>
     <tr>
