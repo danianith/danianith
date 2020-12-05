@@ -28,12 +28,6 @@ Se quiser conversar, pode me achar aqui:
 
 ---
 
-<div align="center">
-
 ![](https://komarev.com/ghpvc/?username=danianith&color=blueviolet)
 
 <img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danianith&hide=html&layout=compact&theme=shades-of-purple"/> <img width="300px" align="left" src="https://github-readme-stats.vercel.app/api?username=danianith&theme=shades-of-purple"/>
-
-</div>
-
-
