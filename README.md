@@ -16,7 +16,7 @@ Amo cozinhar, organizar, pesquisar, estudar, conhecer, questionar e ajudar as pe
 
 Se quiser conversar, pode me achar aqui:
 
-<a href="https://www.linkedin.com/in/danianith"><img src="./images/linkedin.png" width="25"></img></a> [LinkedIn](https://www.linkedin.com/in/danianith)  <a href="mailto:danianith@gmail.com"><img src="./images/gmail.png" width="25"></img></a> [E-mail](mailto:danianith@gmail.com) <a href="https://www.twitter.com/danianith"><img src="./images/twitter.png" width="25"></img></a> [Twitter](https://www.twitter.com/danianith)  <a href="https://https://dev.to/danianith"><img src="./images/devto.png" width="25"></img></a> [DEV](https://dev.to/danianith)<br>
+<a href="https://www.linkedin.com/in/danianith"><img src="./images/linkedin.png" width="25"></img></a> [LinkedIn](https://www.linkedin.com/in/danianith)  <a href="https://www.twitter.com/danianith"><img src="./images/twitter.png" width="25"></img></a> [Twitter](https://www.twitter.com/danianith)  <a href="https://https://dev.to/danianith"><img src="./images/devto.png" width="25"></img></a> [DEV](https://dev.to/danianith)<br>
 
 ---
 
