@@ -4,7 +4,7 @@
 ### Hello, World! </h2>
 <img src="./images/hello.gif" width="100">
 
-Eu sou a Daniani, mulher lésbica, vegetariana, espiritualista, apaixonada por tecnologia, administração, informações e pesquisas. 
+Eu sou a Daniani, vegetariana, espiritualista, apaixonada por tecnologia, administração, informações e pesquisas. 
 
 Empreendedora desde os 14 anos, amo trabalhar por conta própria e tudo que envolve esse mundo.
 
