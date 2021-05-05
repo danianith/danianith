@@ -1,5 +1,5 @@
 
-<img src="./images/capa.png">
+<img src="./images/capa.jpg">
 
 ### Hello, World! </h2>
 <img src="./images/hello.gif" width="100">
@@ -30,7 +30,7 @@ Se quiser conversar, pode me achar aqui:
 <br>
 
 <img src="https://shields.braskam.com/v1/shields?name=ubuntu&format=circle&size=large"></img> <img src="https://shields.braskam.com/v1/shields?name=linux&format=circle&size=large"></img> <img src="https://shields.braskam.com/v1/shields?name=git&format=circle&size=large"></img> <img src="https://shields.braskam.com/v1/shields?name=github&format=circle&size=large"> <img src="https://shields.braskam.com/v1/shields?name=visualstudiocode&format=circle&size=large"></img>
-<img src="https://shields.braskam.com/v1/shields?name=html5&format=circle&size=large"></img> <img src="https://shields.braskam.com/v1/shields?name=css3&format=circle&size=large"></img> <img src="https://shields.braskam.com/v1/shields?name=javascript&format=circle&size=large"></img> <br>
+<img src="https://shields.braskam.com/v1/shields?name=html5&format=circle&size=large"></img> <img src="https://shields.braskam.com/v1/shields?name=css3&format=circle&size=large"></img> <img src="https://shields.braskam.com/v1/shields?name=javascript&format=circle&size=large"></img> <img src="https://shields.braskam.com/v1/shields?name=java&format=circle&size=large"></img> <br>
 
 ---
 
