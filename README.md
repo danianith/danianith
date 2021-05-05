@@ -4,19 +4,25 @@
 ### Hello, World! </h2>
 <img src="./images/hello.gif" width="100">
 
-Eu sou a Daniani, vegetariana, espiritualista, apaixonada por tecnologia, administração, informações e pesquisas. 
+Eu sou a Daniani, vegetariana, espiritualista, apaixonada por tecnologia, design, administração, informações e pesquisas. Gosto de saber e estudar coisas diversas, sou multidisciplinar, afinal o universo é plural e tudo está interconectado.
 
-Empreendedora desde os 14 anos, amo trabalhar por conta própria e tudo que envolve esse mundo.
+Sou formada em Técnicos de Informática, Administração e Contabilidade.
+Já estudei Programação FrontEnd e Design UX/UI. 
+E atualmente estou me dedicando aos estudos de programação em Java com Spring Boot e Hibernate | Inglês e Espanhol.
 
-Formada em técnicos de Informática, Administração e Contabilidade. Sou autodidata e atualmente estudo Programação e UX/UI designer.
+Tenho pensamento criativo e sou questionadora. Valorizo organização e planejamento.
+Procuro sempre me comunicar de forma eficaz e com empatia. 
+Gosto de ambientes colaborativos, flexíveis, diversos e inclusivos. Em tudo que faço, prezo pela ética e respeito.
 
 Divido meu tempo entre ser dona de casa, esposa, meus trabalhos, estudos, ver séries, filmes, desenhos, jogar (tabuleiro e retrogames), meditar e ser feliz.
 
-Amo cozinhar, organizar, pesquisar, estudar, conhecer, questionar e ajudar as pessoas.
+Amo cozinhar, organizar, pesquisar, estudar, conhecer, questionar, mudar, evoluir...
 
 Se quiser conversar, pode me achar aqui:
 
 <a href="https://www.linkedin.com/in/danianith"><img src="./images/linkedin.png" width="25"></img></a> [LinkedIn](https://www.linkedin.com/in/danianith)  <a href="https://www.twitter.com/danianith"><img src="./images/twitter.png" width="25"></img></a> [Twitter](https://www.twitter.com/danianith)  <a href="https://https://dev.to/danianith"><img src="./images/devto.png" width="25"></img></a> [DEV](https://dev.to/danianith)<br>
+
+#Web #Deva #Programadora #BackEnd #Java #SpringBoot #Hibernate #Design #UX/UI #Gestão
 
 ---
 
