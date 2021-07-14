@@ -8,7 +8,7 @@ Eu sou a Daniani, vegetariana, espiritualista, apaixonada por tecnologia, design
 
 Sou formada em Técnicos de Informática, Administração e Contabilidade. 
 Já estudei Programação FrontEnd e Design UX/UI. Estudo Inglês e Espanhol desde Julho/20. 
-E recentemente comecei a me dedicar aos estudos de programação em Java com Spring e Hibernate.
+E  recentemente comecei a me dedicar aos estudos de GameDev, GameDesign, Motion Design e Pixel Art.
 
 Tenho pensamento criativo e sou questionadora. Valorizo organização e planejamento.
 Procuro sempre me comunicar de forma eficaz e com empatia. 
@@ -22,7 +22,7 @@ Se quiser conversar, pode me achar aqui:
 
 <a href="https://www.linkedin.com/in/danianith"><img src="./images/linkedin.png" width="25"></img></a> [LinkedIn](https://www.linkedin.com/in/danianith)  <a href="https://www.twitter.com/danianith"><img src="./images/twitter.png" width="25"></img></a> [Twitter](https://www.twitter.com/danianith)  <a href="https://https://dev.to/danianith"><img src="./images/devto.png" width="25"></img></a> [DEV](https://dev.to/danianith)<br>
 
-#Web #Deva #Programadora #BackEnd #Java #Spring #Hibernate #Design #UX/UI #Gestão
+#Game #Deva #Motion #PixelArt #Design #UX/UI #Gestão
 
 ---
 
