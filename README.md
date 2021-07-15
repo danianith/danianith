@@ -6,9 +6,10 @@
 
 Eu sou a Daniani, vegetariana, espiritualista, apaixonada por tecnologia, design, administração, informações e pesquisas. Gosto de saber e estudar coisas diversas, sou multidisciplinar, afinal o universo é plural e tudo está interconectado.
 
-Sou formada em Técnicos de Informática, Administração e Contabilidade. 
-Já estudei Programação FrontEnd e Design UX/UI. Estudo Inglês e Espanhol desde Julho/20. 
-E  recentemente comecei a me dedicar aos estudos de GameDev, GameDesign, Motion Design e Pixel Art.
+Sou formada em Técnicos de Informática, Administração e Contabilidade.
+Recentemente iniciei minha graduação em Design Gráfico.
+Já estudei Programação FrontEnd e Design UX/UI. Estudo Inglês e Espanhol desde Julho/20.
+Além da graduação estou me dedicando aos estudos de GameDesign, Motion Design e Pixel Art.
 
 Tenho pensamento criativo e sou questionadora. Valorizo organização e planejamento.
 Procuro sempre me comunicar de forma eficaz e com empatia. 
