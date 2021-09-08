@@ -23,7 +23,7 @@ Amo cozinhar, organizar, pesquisar, estudar, conhecer, questionar, mudar, evolui
 
 Se quiser conversar, pode me achar aqui:
 
-<a href="https://www.linkedin.com/in/danianith"><img src="./images/linkedin.png" width="25"></img></a> [LinkedIn](https://www.linkedin.com/in/danianith)  <a href="https://www.twitter.com/danianith"><img src="./images/twitter.png" width="25"></img></a> [Twitter](https://www.twitter.com/danianith)  <a href="https://https://dev.to/danianith"><img src="./images/devto.png" width="25"></img></a> [DEV](https://dev.to/danianith)<br>
+<a href="https://www.linkedin.com/in/danianith"><img src="./images/linkedin.png" width="25"></img></a> [LinkedIn](https://www.linkedin.com/in/danianith) <a href="https://https://dev.to/danianith"><img src="./images/devto.png" width="25"></img></a> [DEV](https://dev.to/danianith)<br>
 
 #Animation #Surface #Motion #PixelArt #Design #UX/UI #Gestão #Deva
 
