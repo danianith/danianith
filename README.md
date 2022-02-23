@@ -11,7 +11,7 @@ Recentemente iniciei minha graduação em Design Gráfico, com previsão de form
 Sou formada em Técnicos de Informática, Administração e Contabilidade. 
 Tenho conhecimento em Programação FrontEnd e Design UX/UI. 
 
-Além da graduação me dedico aos estudos de FrontEnd, Game Design e Pixel Art.
+Além da graduação me dedico aos estudos de FrontEnd, Motion, Game Design e Pixel Art.
 
 Tenho pensamento criativo e sou questionadora. Valorizo organização e planejamento. 
 Procuro sempre me comunicar de forma eficaz e com empatia. Gosto de ambientes colaborativos, flexíveis, diversos e inclusivos. 
