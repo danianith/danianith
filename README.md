@@ -6,18 +6,15 @@
 
 Olá! Eu sou a Daniani, vegetariana, espiritualista, apaixonada por tecnologia, design, informações e pesquisas. Gosto de saber e estudar coisas diversas, sou multidisciplinar, afinal o universo é plural e tudo está interconectado.
 
-Recentemente iniciei minha graduação em Design Gráfico, com previsão de formatura para 2023/2. Estudo Inglês e Espanhol desde Julho/20. 
+Faço graduação em Design Gráfico, com previsão de formatura para 2023/2. Estudo Inglês e Espanhol desde Julho/20. 
+
+Além da graduação, me dedico aos estudos de FrontEnd, Design UX/UI e possuo interesse em desenvolvimento mobile.
 
 Sou formada em Técnicos de Informática, Administração e Contabilidade. 
-Tenho conhecimento em Programação FrontEnd e Design UX/UI. 
-
-Além da graduação me dedico aos estudos de FrontEnd, Motion, Game Design e Pixel Art.
 
 Tenho pensamento criativo e sou questionadora. Valorizo organização e planejamento. 
 Procuro sempre me comunicar de forma eficaz e com empatia. Gosto de ambientes colaborativos, flexíveis, diversos e inclusivos. 
-Em tudo que faço, prezo pela ética e respeito.
-
-Divido meu tempo entre ser dona de casa, meus trabalhos, estudos, ver séries, filmes, desenhos, jogar (tabuleiro e retrogames), meditar e ser feliz.
+Em tudo que faço, prezo pela ética e respeito. 
 
 Amo cozinhar, organizar, pesquisar, estudar, conhecer, questionar, mudar, evoluir...
 
@@ -25,7 +22,7 @@ Se quiser conversar, pode me achar aqui:
 
 <a href="https://www.linkedin.com/in/danianith"><img src="./images/linkedin.png" width="25"></img></a> [LinkedIn](https://www.linkedin.com/in/danianith) <a href="https://https://dev.to/danianith"><img src="./images/devto.png" width="25"></img></a> [DEV](https://dev.to/danianith)<br>
 
-#Game #FrontEnd #Surface #Motion #PixelArt #Design #Gestão #Animation #UX/UI #Deva
+#Design #UX #UI #FrontEnd #Mobile #Gestão
 
 ---
 
